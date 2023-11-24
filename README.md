@@ -32,7 +32,7 @@ Execute [app.R](app.R) to launch the Shiny app.
 * Make sure to configure InfluxDB token in both scripts.
 
 ```R
-  token <- ""lvNsjbSNYpIyM50wy1U9tIhN3gzWD_yppZpHfqxKEEerlsy2cvAewUVpMJT8uog9n9NVMXT7eyhdLd9CC6ZqcA=="
+  token <- ""lvNsjbSNYpIyM50wy1U9tIhN3gzWD_yppZpHfqxKEEerlsy2cvAewUVpMJT8uog9n9NVMXT7eyhdLd9CC6ZqcA==""
 ```
 
 
